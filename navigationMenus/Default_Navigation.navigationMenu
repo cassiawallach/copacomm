@@ -25,4 +25,11 @@
         <target>Case</target>
         <type>SalesforceObject</type>
     </navigationMenuItem>
+    <navigationMenuItem>
+        <label>Accounts</label>
+        <position>4</position>
+        <publiclyAvailable>false</publiclyAvailable>
+        <target>Account</target>
+        <type>SalesforceObject</type>
+    </navigationMenuItem>
 </NavigationMenu>
