@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "934b96d0-b625-48ad-bd63-3a70ef051f02",
+  "appPageId" : "477c3e31-971a-4040-aff5-a1da3c5aaeb7",
+  "configurationTags" : [ ],
+  "id" : "418176ee-a9c7-47d5-8764-26b8c4a2331a",
+  "label" : "Report Builder",
+  "routeType" : "createreport",
+  "type" : "route",
+  "urlPrefix" : "createreport"
+}

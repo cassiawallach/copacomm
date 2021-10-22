@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "f35df54c-4867-480d-8cea-bfa5b5056194",
+  "appPageId" : "477c3e31-971a-4040-aff5-a1da3c5aaeb7",
+  "configurationTags" : [ ],
+  "id" : "d0e8df25-78fc-4859-9c3f-a06f0050e1e9",
+  "label" : "Question Detail",
+  "routeType" : "feeditem",
+  "type" : "route",
+  "urlPrefix" : "question"
+}
