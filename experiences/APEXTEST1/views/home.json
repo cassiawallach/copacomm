@@ -4,6 +4,27 @@
   "id" : "272027c6-1d67-466b-849b-b3b76b7c5aed",
   "label" : "Home",
   "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "maxWidth" : 98,
+        "overlayColor" : "rgba(0,0,0,0.4)",
+        "overlayHoverColor" : "",
+        "radius" : 0,
+        "showTitle" : true,
+        "textAlignment" : "center",
+        "textBgColor" : "rgba(0,0,0,0)",
+        "textBgHoverColor" : "rgba(0,0,0,0)",
+        "textColor" : "",
+        "textHoverColor" : "",
+        "textPosition" : "center center",
+        "title" : "Featured Topics"
+      },
+      "componentName" : "forceTopic:featuredTopics",
+      "id" : "888c3bf9-25b6-4075-844f-4072deff990a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
     "id" : "84c4f3e1-4e77-4ce6-9c76-2b4c07795521",
     "regionName" : "header",
     "type" : "region"
