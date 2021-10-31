@@ -1,0 +1,66 @@
+{
+  "appPageId" : "a01d02bb-e968-4c73-b167-df75dbb54a39",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "id" : "23d3a355-b141-4b7a-97ca-b9079616694f",
+  "label" : "Topic Detail",
+  "regions" : [ {
+    "id" : "a62f6705-050c-4572-800b-c77b50438592",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "articleListPageSize" : 10,
+        "showTitle" : true,
+        "title" : "Articles",
+        "topicId" : "{!recordId}"
+      },
+      "componentName" : "selfService:topicRelatedArticle",
+      "id" : "aa8cd316-ca7b-4375-aa7c-67009117a1e9",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "68b13f04-68a3-40a6-acce-15ce77cff9a4",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "showTopicsMetric" : true,
+        "title" : "Related Topics",
+        "topicId" : "{!recordId}"
+      },
+      "componentName" : "forceCommunity:relatedTopics",
+      "id" : "5493b4cb-e740-456f-be10-4f8667479658",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8b46eedb-d887-49bd-9a1f-f86bf02de3cf",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "7749c852-0225-4cf6-b801-ff575d3011ee",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "{!Record.Description}",
+        "title" : "{!Record._Title}"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "463d897d-0a8a-47d9-a9db-8ff4777f632c",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ad658871-a9df-4e1c-969e-e0db11252f4f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "topic"
+}
