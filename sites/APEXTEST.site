@@ -23,7 +23,7 @@
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <siteAdmin>cwallach.copacomm@force.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>cwallach.copacomm@force.com</siteGuestRecordDefaultOwner>
+    <siteGuestRecordDefaultOwner>admin-utvbnpow9tl7@example.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
     <subdomain>copacomm</subdomain>
     <urlPathPrefix>APEXTEST</urlPathPrefix>
