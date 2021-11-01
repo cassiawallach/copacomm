@@ -226,6 +226,14 @@
         <fullName>StockKeepingUnit</fullName>
     </fields>
     <fields>
+        <fullName>Test_Asset_Field__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Test Asset Field</label>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
