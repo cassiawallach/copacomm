@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "ac4c0fa7-ea31-47d0-83b0-b078228cbda7",
+  "appPageId" : "6a9b6d80-00b0-4cef-8aa2-5c894fa6cbfd",
+  "configurationTags" : [ ],
+  "id" : "5dbdfd19-f609-4b4c-ab9d-42df0e54945a",
+  "label" : "User Related List",
+  "routeType" : "relatedlist-005",
+  "type" : "route",
+  "urlPrefix" : "profile"
+}
