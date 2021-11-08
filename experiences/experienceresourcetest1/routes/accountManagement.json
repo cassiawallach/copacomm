@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "a3286816-4dc0-482d-8f33-26ffb59a65cc",
+  "appPageId" : "6a9b6d80-00b0-4cef-8aa2-5c894fa6cbfd",
+  "configurationTags" : [ ],
+  "id" : "6a26e074-e4ee-4da1-9eae-cfdd8de45948",
+  "label" : "Account Management",
+  "routeType" : "account-management",
+  "type" : "route",
+  "urlPrefix" : "account-management"
+}
